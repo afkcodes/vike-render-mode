@@ -1,1 +1,1 @@
-export default "SPA";
+export default "SSR";
