@@ -9,7 +9,7 @@ export default {
   // See https://vike.dev/data-fetching
   clientRouting: true,
   hydrationCanBeAborted: true,
-  passToClient: ["pageProps", "urlPathname"],
+  passToClient: ["pageProps"],
   meta: {
     renderMode: {
       env: { config: true },
